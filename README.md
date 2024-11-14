@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Muayyad!
 
-Welcome to my GitHub! I'm a passionate **Software Engineer** with expertise in **Python Django**, **ReactJS**, and **NodeJS**. I focus on building scalable applications and seamless, secure APIs.
+Welcome to my GitHub! I'm a **Software Engineer** with expertise in **Python Django**, **ReactJS**, and **NodeJS**. I focus on building scalable applications and seamless, secure APIs.
 
 ## 🚀 My Journey
 With a solid foundation in backend and frontend development, I've built projects ranging from web apps to powerful APIs. I'm always on the lookout for **best practices** and **cutting-edge tools** to enhance my work and stay ahead in the ever-evolving tech landscape.
