@@ -13,8 +13,8 @@ With a solid foundation in backend and frontend development, I've built projects
 - **Data Science/AI**: Interested in advancing towards **AI, ML**, and **Data Engineering**.
 
 ## 🛠️ Tech Stack
-- **Languages**: JavaScript, Python, Golang
-- **Frontend**: ReactJS, Angular, Storybook
+- **Languages**: JavaScript, Python
+- **Frontend**: ReactJS, Storybook
 - **Backend**: NodeJS, Django
 - **Tools**: Docker, GitHub Actions, Jest, Vitest, MSW, Airbrake
 - **Others**: DigitalOcean, AWS, Zoho Bigin Integration, Magento 2
